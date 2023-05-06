@@ -21,7 +21,7 @@ class CreateAccountAsTouristActivity : AppCompatActivity() {
 
     private var touristImage:String?=null
 
-
+//
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_create_account_as_tourist)
